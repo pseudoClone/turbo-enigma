@@ -26,3 +26,6 @@ function iterate(){
 	exit
 }
 iterate
+
+# TODO: function cut()
+
