@@ -1,0 +1,4 @@
+ESP32C3/taskNot/CMakeLists.txt
+ESP32C3/TaskQueue/CMakeLists.txt
+ESP32C3/bigDumpofCode/CMakeLists.txt
+ESP32C3/ESPFileSys/CMakeLists.txt
